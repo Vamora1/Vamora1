@@ -10,4 +10,3 @@ Our goal? To make technology more **fun**, **accessible**, and **beautiful**.
 
 ## 🧠 What We’re Working On
 - 🧩 **VamoraOS** – a Linux-based OS with a sleek and customisable UI and powerful tools
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/YourUsername/YourRepo) 
