@@ -1,12 +1,53 @@
-<!---
-Vamora1/Vamora1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## 🚀 About Vamora
-Vamora is an open-source project focused on creating clean, powerful, and user-friendly tools & systems.  
-Our goal? To make technology more **fun**, **accessible**, and **beautiful**.
+# hey, i'm anis 👋
+
+🎨 UI/UX Designer  
+🦀 Rust Learner  
+🐧 Linux Enjoyer  
+🌌 Founder of The Vamora Project
 
 ---
 
-## 🧠 What We’re Working On
-- 🧩 **VamoraOS** – a Linux-based OS with a sleek and customisable UI and powerful tools
+## currently
+
+- 🌌 VamoraOS
+- ⚡ Vaminfo
+- 🌤️ VamoraWeather
+
+---
+
+## stack
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=rust,python,ts,js,bash,linux,git,figma,vscode" />
+
+</div>
+
+---
+
+## github
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vamora1&show_icons=true&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamora1&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+## random facts
+
+✨ i design before i code
+
+🎨 figma is open 24/7
+
+☕ caffeine powered
+
+🌙 probably working on vamora
+
+---
+
+## find me
+
+🌐 github.com/vamora1
+
+🏢 github.com/TheVamoraProject
