@@ -3,15 +3,7 @@
 🎨 UI/UX Designer  
 🦀 Rust Learner  
 🐧 Linux Enjoyer  
-<p align="center">
-  <sub>
-    🌌 Founder of 
-    <a href="https://rb.gy/7jh0i9" target="_blank">
-      <img src="https://github.com/user-attachments/assets/efb3ad9b-6b07-4488-9c16-79586297ee5d" alt="Vamora" height="10">
-    </a>
-  </sub>
-</p>
-
+🌌 Founder of The Vamora Project
 
 ---
 
@@ -25,11 +17,11 @@
 
 ## stack
 
-<div align="left">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,python,ts,js,bash,linux,git,figma" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=rust,python,ts,js,bash,linux,git,figma,vscode" />
-
-</div>
+> 💡 I use **Sublime Text** as my main editor.
 
 ---
 
@@ -48,7 +40,7 @@
 
 🎨 figma is open 24/7
 
-☕ caffeine powered
+☕ powered by caffeine
 
 🌙 probably working on vamora
 
@@ -56,6 +48,6 @@
 
 ## find me
 
-🌐 github.com/vamora1
+🐙 **GitHub:** https://github.com/vamora1
 
-🏢 github.com/TheVamoraProject
+🌌 **The Vamora Project:** https://github.com/TheVamoraProject
