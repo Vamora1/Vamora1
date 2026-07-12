@@ -2,14 +2,14 @@
 
 <p>
 🎨 UI/UX Designer<br>
-🦀 Rust Learner<br>
+🦀 Rust Dev (maybe?)<br>
 🐧 Linux Enjoyer<br>
 🌌 Founder of   <a href="https://rb.gy/7jh0i9"><img src="https://github.com/user-attachments/assets/efb3ad9b-6b07-4488-9c16-79586297ee5d" alt="Vamora" height="14" align="absmiddle"></a>
 </p>
 
 ---
 
-## currently
+## Building
 
 - 🌌 VamoraOS
 - ⚡ Vaminfo
