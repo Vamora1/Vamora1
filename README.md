@@ -33,11 +33,3 @@
 🎨 figma is open 24/7
 
 🌙 probably working on vamora
-
----
-
-## find me
-
-🐙 **GitHub:** https://github.com/vamora1
-
-🌌 **The Vamora Project:** https://github.com/TheVamoraProject
